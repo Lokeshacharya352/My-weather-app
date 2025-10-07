@@ -1,4 +1,4 @@
-'''
+```text
 weather-app/
 │── public/
 │    └── index.html
@@ -12,4 +12,4 @@ weather-app/
 │── .github/
 │    └── workflows/
 │         └── docker-build.yml
-'''
+```
